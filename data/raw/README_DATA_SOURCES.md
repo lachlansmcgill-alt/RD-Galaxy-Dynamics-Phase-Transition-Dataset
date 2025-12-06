@@ -10,8 +10,8 @@ This file documents the origin, processing, and quality control of all data in t
 - **URL:** http://astroweb.cwru.edu/SPARC/
 - **Description:** 175 late-type galaxies with high-quality rotation curves from 21cm HI/Hα observations
 - **Data Files:**
-  - `SPARC_Mass_Models.csv`: Rotation curve data (radius, velocity, uncertainties)
-  - `stellar_masses/`: Stellar mass surface density profiles for 163 galaxies
+  - `SPARC_Mass_Models.csv`: Complete rotation curve data (radius, velocity, uncertainties) for all 175 galaxies
+  - Note: Individual stellar mass profile files are available from the SPARC website
 - **Access Date:** 2024
 - **License:** Public domain (academic use)
 
