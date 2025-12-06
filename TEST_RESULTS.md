@@ -111,10 +111,10 @@ RD_galaxy_phase_transition_dataset_v1.0/
 | data/raw/README_DATA_SOURCES.md | ✅ Complete | SPARC + ATLAS³D provenance |
 | docs/PARAMETERS.md | ✅ Complete | All parameter definitions |
 
-**Placeholders to fill before upload:**
-- `[Author Name]` in LICENSE.txt and CITATION.cff
-- `[ORCID-ID]` in CITATION.cff (optional)
-- `[zenodo-doi]` in CITATION.cff (will be assigned by Zenodo)
+**Metadata now complete:**
+- Author Name: Lachlan McGill (in LICENSE.txt and CITATION.cff)
+- Zenodo DOI: 10.5281/zenodo.17838464 (in CITATION.cff)
+- GitHub: https://github.com/lachlansmcgill-alt/RD-Galaxy-Dynamics-Phase-Transition-Dataset
 
 ---
 

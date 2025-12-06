@@ -1,6 +1,6 @@
 # RD Galaxy Phase Transition Dataset v1.0
 
-**DOI:** (to be assigned by Zenodo)  
+**DOI:** 10.5281/zenodo.17838464  
 **Version:** 1.0  
 **Date:** December 2025  
 **License:** MIT (Code) + CC BY 4.0 (Data)
@@ -195,12 +195,12 @@ If you use this dataset, please cite:
 ### Dataset
 ```bibtex
 @dataset{rd_galaxy_2025,
-  author = {[Your Name]},
+  author = {Lachlan McGill},
   title = {RD Galaxy Phase Transition Dataset v1.0},
   year = {2025},
   publisher = {Zenodo},
-  doi = {[Zenodo DOI]},
-  url = {https://doi.org/[Zenodo DOI]}
+  doi = {10.5281/zenodo.17838464},
+  url = {https://doi.org/10.5281/zenodo.17838464}
 }
 ```
 

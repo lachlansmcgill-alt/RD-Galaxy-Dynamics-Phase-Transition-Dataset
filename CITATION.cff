@@ -34,10 +34,9 @@ license: "MIT"
 
 type: dataset
 
-# Fill these in once they exist
-repository-code: "https://github.com/USERNAME/REPO"
-url: "https://doi.org/10.5281/zenodo.XXXXXXX"
-doi: "10.5281/zenodo.XXXXXXX"
+repository-code: "https://github.com/lachlansmcgill-alt/RD-Galaxy-Dynamics-Phase-Transition-Dataset"
+url: "https://doi.org/10.5281/zenodo.17838464"
+doi: "10.5281/zenodo.17838464"
 
 references:
   - type: article
