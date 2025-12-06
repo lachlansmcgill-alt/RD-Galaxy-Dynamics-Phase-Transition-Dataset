@@ -1,0 +1,19 @@
+# RD_physics - Recursive Dynamics Physics Pipeline
+# Python dependencies
+
+# Core scientific computing
+numpy>=1.24.0,<2.0.0
+pandas>=2.0.0,<3.0.0
+scipy>=1.10.0,<2.0.0
+
+# Visualization
+matplotlib>=3.7.0,<4.0.0
+
+# Astronomy utilities
+astropy>=5.2.0,<6.0.0
+
+# Optional: for improved performance
+# numba>=0.57.0
+
+# Optional: for clustering analysis
+scikit-learn>=1.3.0,<2.0.0

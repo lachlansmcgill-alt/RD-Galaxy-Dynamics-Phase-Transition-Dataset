@@ -1,0 +1,76 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "RD Galaxy Dynamics Phase-Transition Dataset (SPARC + ATLAS³D)"
+version: "1.0"
+date-released: 2025-12-06
+
+abstract: >
+  Complete analysis dataset for validating Recursive Dynamics (RD) cosmology
+  through 194 galaxies (109 SPARC spirals + 89 ATLAS³D ellipticals).
+  Demonstrates an apparent dynamical phase transition at τ = 0, where
+  100% of spirals in the sample show τ > 0 (active regime) and 87.6% of
+  ellipticals show τ < 0 (frozen regime), with S0 systems clustering
+  near τ ≈ 0.
+
+authors:
+  - family-names: "McGill"
+    given-names: "Lachlan"
+
+keywords:
+  - galaxy dynamics
+  - cosmology
+  - rotation curves
+  - velocity dispersion
+  - phase transition
+  - SPARC
+  - ATLAS3D
+  - Recursive Dynamics
+  - dark matter
+  - modified gravity
+
+# Primary license for the software component.
+# CC-BY-4.0 for data should be described in LICENSE.txt / README.
+license: "MIT"
+
+type: dataset
+
+# Fill these in once they exist
+repository-code: "https://github.com/USERNAME/REPO"
+url: "https://doi.org/10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.XXXXXXX"
+
+references:
+  - type: article
+    title: "SPARC: Mass Models for 175 Disk Galaxies with Spitzer Photometry and Accurate Rotation Curves"
+    authors:
+      - family-names: "Lelli"
+        given-names: "Federico"
+      - family-names: "McGaugh"
+        given-names: "Stacy S."
+      - family-names: "Schombert"
+        given-names: "James M."
+    journal: "The Astronomical Journal"
+    volume: "152"
+    issue: "6"
+    year: 2016
+    doi: "10.3847/0004-6256/152/6/157"
+
+  - type: article
+    title: "The ATLAS³D project – I. A volume-limited sample of 260 nearby early-type galaxies: science goals and selection criteria"
+    authors:
+      - family-names: "Cappellari"
+        given-names: "Michele"
+    journal: "Monthly Notices of the Royal Astronomical Society"
+    volume: "413"
+    issue: "2"
+    year: 2011
+    doi: "10.1111/j.1365-2966.2010.18174.x"
+
+preferred-citation:
+  type: dataset
+  title: "RD Galaxy Dynamics Phase-Transition Dataset (SPARC + ATLAS³D)"
+  authors:
+    - family-names: "McGill"
+      given-names: "Lachlan"
+  year: 2025
+  doi: "10.5281/zenodo.XXXXXXX"
