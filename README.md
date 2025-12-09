@@ -204,16 +204,7 @@ If you use this dataset, please cite:
 }
 ```
 
-### Paper (when published)
-```bibtex
-@article{rd_phase_transition_2026,
-  author = {[Your Name]},
-  title = {Discovery of a Phase Transition in Galactic Dynamics},
-  journal = {Nature Astronomy},
-  year = {2026},
-  note = {Submitted}
-}
-```
+
 
 ### Original Data Sources
 - **SPARC:** Lelli et al. (2016), AJ, 152, 157
