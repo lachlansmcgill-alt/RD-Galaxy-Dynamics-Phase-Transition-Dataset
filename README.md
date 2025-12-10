@@ -256,10 +256,8 @@ All results can be reproduced by running the scripts in order:
 ## Contact
 
 For questions about this dataset:
-- **GitHub Issues:** [Repository URL when published]
-- **Email:** [Your email]
-- **ORCID:** [Your ORCID if applicable]
-
+- **GitHub Issues:** https://github.com/lachlansmcgill-alt/RD-Galaxy-Dynamics-Phase-Transition-Dataset
+- **Email:** lachlan.s.mcgill@gmail.com
 ---
 
 ## Acknowledgments
@@ -367,8 +365,6 @@ It is not fit to the data and has no tunable parameters, which makes its separat
 
 Parameter Definitions
 
-(your table is excellent — unchanged besides tiny formatting edits)
-
 Results Summary
 Spirals (SPARC, 109 galaxies)
 
@@ -401,8 +397,6 @@ This makes τ a natural separator in the sample studied.
 
 Data Sources
 
-(your section is already perfect — minor smoothing only)
-
 Citation
 Dataset
 @dataset{mcgill_rd_phase_transition_2025,
@@ -410,15 +404,19 @@ Dataset
   title        = {RD Galaxy Phase-Transition Dataset v1.0},
   year         = {2025},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.XXXXXXX},
-  url          = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  doi          = {10.5281/zenodo.17838463. },
+  url          = {https://doi.org/10.5281/zenodo.17838463. }
 }
 
-Recommended: cite original data sources
+Lelli, F., McGaugh, S. S., & Schombert, J. M. (2016).
+SPARC: Mass Models for 175 Disk Galaxies with Spitzer Photometry and Accurate Rotation Curves.
+AJ, 152, 157.
+doi:10.3847/0004-6256/152/6/157
 
-SPARC: Lelli et al. (2016)
-
-ATLAS³D: Cappellari et al. (2011)
+Cappellari, M., et al. (2011).
+The ATLAS³D project – I. Introduction to the survey.
+MNRAS, 413, 813–836.
+doi:10.1111/j.1365-2966.2010.18174.x
 
 Reproducibility Notes
 
@@ -435,17 +433,14 @@ tau_evolutionary_analysis.py
 tdgl_jeans_ellipticals.py (Test 6)
 
 Figures:
-
 python scripts/figures/generate_paper_figures_full.py
 python scripts/figures/generate_figure5_unified_sequence.py
 
 Contact
 
-GitHub Issues: (add link when live)
+GitHub Issues:https://github.com/lachlansmcgill-alt/RD-Galaxy-Dynamics-Phase-Transition-Dataset
 
-Email: (optional)
-
-ORCID: (optional)
+Email: lachlan.s.mcgill@gmail.com
 
 Version History
 
@@ -467,6 +462,6 @@ Thanks to the astronomy community for making these datasets publicly available.
 
 ---
 
-**Dataset DOI:** [To be assigned by Zenodo]  
+**Dataset DOI:** 10.5281/zenodo.17838463. 
 **Paper DOI:** [To be assigned upon publication]  
 **Last Updated:** December 2025
